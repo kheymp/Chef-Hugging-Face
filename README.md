@@ -20,8 +20,6 @@ Follow these steps to run the project locally.
 ### ✅ Prerequisites
 
 Make sure you have **Node.js** and **npm** installed:  
-```bash
-node -v
-npm -v
+
 
 ![image_alt](https://github.com/kheymp/Chef-Hugging-Face/blob/6039084dc463ed6e10b602d2d29c7d8444a1c3c3/Screenshot_20-6-2025_233231_localhost.jpeg)
